@@ -29,11 +29,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um titulo de ebook sobre o tema de dicas e truques para utilizar o celular iPhone, o título deve ser curto, com linguagem simples.                      | conteúdo | Faça um texto para ebook, onde iremos oferecer dicas e truques para utilização do celular iPhone.
-Nos temas abordados não pode faltar dicas sobre como: melhorar a vida da bateria, Qual a melhor opção para tirar foto noturna 
->Explique sempre de maneira simples e fácil entendimento
->Deixe o texto enxuto
->sempre deixe um título sugestivo para o tópico |
+|  título  | Crie um titulo de ebook sobre o tema de dicas e truques para utilizar o celular iPhone, o título deve ser curto, com linguagem simples.                      | conteúdo | Faça um texto para ebook, onde iremos oferecer dicas e truques para utilização do celular iPhone. Nos temas abordados não pode faltar dicas sobre como: melhorar a vida da bateria, Qual a melhor opção para tirar foto noturna |
+
 
 Microsoft Designer：
 
